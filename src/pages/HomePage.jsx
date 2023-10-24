@@ -33,7 +33,7 @@ const HomePage = () => {
           to="/create"
           className="inline-block mt-4 shadow-md bg-blue-700 text-white rounded-sm px-4 py-2 font-bold hover:bg-blue-600 hover:cursor-pointer"
         >
-          Create a Product nguyen duc vuong
+          Create a Product
         </Link>
       </div>
       <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 mt-5">
